@@ -1,16 +1,33 @@
-# weather_app
+## Flutter weather forecast app
 
-A new Flutter application.
+Simple weather app
+Flutter.
+Api's and hard navigation roads used.
+Dark and light colorscheme include.
 
-## Getting Started
+# Main screen of the app:
+Here you can find weather forecast by hours and city name.
+![Главный экран С](https://user-images.githubusercontent.com/96063296/145827261-eb305980-8b84-41b4-abef-1e8d34332828.png)
+![Главный экран Т](https://user-images.githubusercontent.com/96063296/145827497-8fabae67-a2ab-4061-8ec7-8f232796008c.png)
 
-This project is a starting point for a Flutter application.
+# Weekly forecast screen of the app:
+Weather forecast for next 7 days with custom swiper.
+![Прогноз на неделю С](https://user-images.githubusercontent.com/96063296/145827770-a3d4b395-d24e-404a-a642-214731a4f644.png)
+![Прогноз на неделю Т](https://user-images.githubusercontent.com/96063296/145827773-1fab5ab4-41a1-4ac3-8272-604ad0ccb332.png)
 
-A few resources to get you started if this is your first Flutter project:
+# Settings screen of the app:
+Here you can change units.
+![Настройки 2 С](https://user-images.githubusercontent.com/96063296/145827987-f8064214-dd98-4d45-ac99-a270128a6c73.png)
+![Настройки Т 2](https://user-images.githubusercontent.com/96063296/145827988-bf29d39a-abd2-46a7-8a7e-82de0d1789c9.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Settings screen of the app:
+Here you can find your city.
+![Поиск с списком С](https://user-images.githubusercontent.com/96063296/145828113-0005cc35-3546-4995-99c5-16d438b63896.png)
+![Поиск с списком 2 Т](https://user-images.githubusercontent.com/96063296/145828116-0f5e459c-8ca2-4ec8-9669-33ae75031a38.png)
+
+
+# Favourites screen of the app:
+Here you can find your cities, whitch was added to favourites.
+![Избранные С](https://user-images.githubusercontent.com/96063296/145828346-5b5bed81-09a6-4bde-99fa-67d283f11df2.png)
+![Избранные Т](https://user-images.githubusercontent.com/96063296/145828348-fc22c874-8bce-4e17-827b-1a4c0cf2872e.png)
